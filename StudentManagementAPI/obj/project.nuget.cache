@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L0dZrTr2yKs=",
+  "dgSpecHash": "O1qCwOGSzLw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ibrah\\Desktop\\Student Management\\StudentManagementAPI\\StudentManagementAPI\\StudentManagementAPI.csproj",
+  "projectFilePath": "C:\\Projects\\StudentManagementAPI\\StudentManagementAPI\\StudentManagementAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ibrah\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ibrah\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

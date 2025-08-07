@@ -1,0 +1,20 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore Visual Studio cache files
+.vs/
+
+# Ignore user-specific settings
+*.user
+*.suo
+
+# Ignore node_modules from Angular
+node_modules/
+
+# Ignore environment files
+.env
+.env.local
+
+# Ignore Angular dist build
+dist/

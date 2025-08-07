@@ -340,3 +340,5 @@ C:\Users\ibrah\Desktop\Student Management\StudentManagementAPI\StudentManagement
 C:\Users\ibrah\Desktop\Student Management\StudentManagementAPI\StudentManagementAPI\obj\Debug\net8.0\StudentManagementAPI.pdb
 C:\Users\ibrah\Desktop\Student Management\StudentManagementAPI\StudentManagementAPI\obj\Debug\net8.0\StudentManagementAPI.genruntimeconfig.cache
 C:\Users\ibrah\Desktop\Student Management\StudentManagementAPI\StudentManagementAPI\obj\Debug\net8.0\ref\StudentManagementAPI.dll
+C:\Projects\StudentManagementAPI\StudentManagementAPI\bin\Debug\net8.0\StudentAPI.postman_collection.json
+C:\Projects\StudentManagementAPI\StudentManagementAPI\obj\Debug\net8.0\StudentManagementAPI.sourcelink.json
