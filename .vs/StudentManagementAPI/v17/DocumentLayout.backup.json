@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\Desktop\\Student Management\\StudentManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9027858F-C8C0-45AA-B5CE-583E3588FD15}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\ibrah\\desktop\\student management\\studentmanagementapi\\studentmanagementapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9027858F-C8C0-45AA-B5CE-583E3588FD15}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9027858F-C8C0-45AA-B5CE-583E3588FD15}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\ibrah\\desktop\\student management\\studentmanagementapi\\studentmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9027858F-C8C0-45AA-B5CE-583E3588FD15}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9027858F-C8C0-45AA-B5CE-583E3588FD15}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\ibrah\\desktop\\student management\\studentmanagementapi\\studentmanagementapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9027858F-C8C0-45AA-B5CE-583E3588FD15}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9027858F-C8C0-45AA-B5CE-583E3588FD15}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\ibrah\\desktop\\student management\\studentmanagementapi\\studentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9027858F-C8C0-45AA-B5CE-583E3588FD15}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9027858F-C8C0-45AA-B5CE-583E3588FD15}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\ibrah\\desktop\\student management\\studentmanagementapi\\studentmanagementapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9027858F-C8C0-45AA-B5CE-583E3588FD15}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Student Management\\StudentManagementAPI\\StudentManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Student Management\\StudentManagementAPI\\StudentManagementAPI\\appsettings.json",
+              "RelativeToolTip": "StudentManagementAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T21:04:57.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Student Management\\StudentManagementAPI\\StudentManagementAPI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Student Management\\StudentManagementAPI\\StudentManagementAPI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:04:02.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Student Management\\StudentManagementAPI\\StudentManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Student Management\\StudentManagementAPI\\StudentManagementAPI\\Program.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:54:29.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Student Management\\StudentManagementAPI\\StudentManagementAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Student Management\\StudentManagementAPI\\StudentManagementAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:56:26.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Student Management\\StudentManagementAPI\\StudentManagementAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Student Management\\StudentManagementAPI\\StudentManagementAPI\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:55:12.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
